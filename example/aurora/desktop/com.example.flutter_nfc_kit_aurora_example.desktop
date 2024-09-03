@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Name=flutter_nfc_kit_aurora_example
+Comment=Demonstrates how to use the flutter_nfc_kit_aurora plugin.
+Icon=com.example.flutter_nfc_kit_aurora_example
+Exec=/usr/bin/com.example.flutter_nfc_kit_aurora_example
+X-Nemo-Application-Type=silica-qt5
+
+[X-Application]
+Permissions=NFC
+OrganizationName=com.example
+ApplicationName=flutter_nfc_kit_aurora_example

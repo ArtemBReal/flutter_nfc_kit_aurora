@@ -1,0 +1,1 @@
+set remote exec-file /*/*/com.example.flutter_nfc_kit_aurora_example
